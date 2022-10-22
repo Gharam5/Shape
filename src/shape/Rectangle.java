@@ -15,13 +15,13 @@ public class Rectangle {
     }
     
     public int getArea() { 
-         return length*breadth;        //  code to calculate area here
+         return length*breadth;     //  calculate area here
     } 
-    //// create method to find perimeter f rectangle
+    //// create method to find perimeter rectangle
     public int getPerimeter() {
         return 2*(length+breadth); 
     }
       ///// calculate the perimeters   
      // getPerimeter()
-
+/// test
 }
